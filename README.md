@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# sars-dmv-appointment-system
+Phase 2 Implementation of the Smart Appointment Rescheduling System (SARS). This phase focuses on designing and developing a working DMV appointment scheduling and rescheduling system, including core backend logic, database design, frontend integration, and testing.
+>>>>>>> group/main

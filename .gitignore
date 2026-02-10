@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -30,3 +31,22 @@ src/api/
 src/pages/
 src/store/
 src/components/
+=======
+# Dependencies
+**/node_modules/
+
+# Environment variables
+**/.env
+**/.env.*
+
+# Build / cache
+**/.vite/
+**/dist/
+**/build/
+
+# Logs
+**/*.log
+
+# OS
+.DS_Store
+>>>>>>> group/main
